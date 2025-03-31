@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="bestplayer.xsl"?>
+<best_Player>
+    <Player id="p1">
+        <PlayerName>
+            <firstName>James</firstName>
+            <lastName>Anderson</lastName>
+        </PlayerName>
+        <Domicile>
+            <Number>12</Number>
+            <Street>North London street</Street>
+            <City>New York</City>
+            <PostCode>69003</PostCode>
+        </Domicile>
+        <Gender>Male</Gender>
+        <DateOfBirth>06/07/1987</DateOfBirth>
+        <Team>New York Youth</Team>
+        <JoinDate>10/09/2020</JoinDate>
+        <Email>james_anderson@nba.org</Email>
+        <Positions>
+            <Position>Point Guard</Position>
+            <Position>Shooting Guard</Position>
+            <Position>Small Forward</Position>
+            <Position>Power Forward</Position>
+            <Position>Center</Position>
+        </Positions>
+        <PhoneNumbers>
+            <phone type="home">0667489190</phone>
+            <phone type="mobile">0478992330</phone>
+        </PhoneNumbers>
+        <Achievements>
+            <Acmt type="Personal">2020 NBA Best Guard</Acmt>
+            <Acmt type="team">2020 NBA Western Champion</Acmt>
+            <Acmt type="team">2021 NBA National Champion</Acmt>
+        </Achievements>
+    </Player>
+    <Player id="p2">
+        <PlayerName>
+            <firstName>Jenny</firstName>
+            <lastName>Will</lastName>
+        </PlayerName>
+        <Domicile>
+            <Number>84</Number>
+            <Street>New Ohio Avenue</Street>
+            <City>Chicago</City>
+            <PostCode>74001</PostCode>
+        </Domicile>
+        <Gender>Female</Gender>
+        <DateOfBirth>08/10/1993</DateOfBirth>
+        <Team>Chicago Bulls</Team>
+        <JoinDate>15/03/2019</JoinDate>
+        <Email>will-jenny@nba.org</Email>
+        <Positions>
+            <Position>Small Forward</Position>
+        </Positions>
+        <PhoneNumbers>
+            <phone type="home">0476202259</phone>
+            <phone type="mobile">0760662880</phone>
+        </PhoneNumbers>
+        <Achievements>
+            <Acmt type="Personal">2020 Women’s NBA MVP</Acmt>
+            <Acmt type="team">2021 Women’s NBA Champion</Acmt>
+        </Achievements>
+    </Player>
+    <Player id="p3">
+        <PlayerName>
+            <firstName>Curry</firstName>
+            <lastName>Henderson</lastName>
+        </PlayerName>
+        <Domicile>
+            <Number>136</Number>
+            <Street>National Congress Avenue</Street>
+            <City>Pennsylvania</City>
+            <PostCode>10001</PostCode>
+        </Domicile>
+        <Gender>Male</Gender>
+        <DateOfBirth>24/12/1990</DateOfBirth>
+        <Team>Toronto Magic</Team>
+        <JoinDate>12/05/2018</JoinDate>
+         <Email>henderson_curry@nba.org</Email>
+        <Positions>
+            <Position>Point Guard</Position>
+        </Positions>
+        <PhoneNumbers>
+            <phone type="home">0645763421</phone>
+            <phone type="mobile">0433209986</phone>
+        </PhoneNumbers>
+        <Achievements>
+            <Acmt type="Personal">2019-2021 NBA MVP</Acmt>
+            <Acmt type="Personal">2022 NBA ALL STAR MVP</Acmt>
+            <Acmt type="team">2019-2020 NBA National Champion</Acmt>
+        </Achievements>
+    </Player>
+</best_Player>
